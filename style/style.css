@@ -1,0 +1,33 @@
+body {
+    font-size: 1.5em;
+    background-color: #232931;
+    font-family: "Lobster", cursive;
+    text-align: center;
+}
+h1 {
+    font-size: 4.4rem;
+    color: #4ecca3;
+}
+.playerNames {
+    width: 60%;
+    display: inline-block;
+}
+.Player_1,
+.Player_2 {
+    width: 49%;
+    display: inline-block;
+}
+.Player_1 img,
+.Player_2 img {
+    width: 60%;
+    height: auto;
+}
+.Player_1 h3,
+.Player_2 h3 {
+    color: #4ecca3;
+    font-family: "Indie Flower", cursive;
+}
+.footer-text {
+    color: #fff;
+    font-family: "Indie Flower", cursive;
+}
